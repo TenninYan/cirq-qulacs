@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='cirqqulacs',
-    version='0.0.3',
+    version='0.1.0',
     author='QunaSys',
     author_email='qulacs@qunasys.com',
     url='http://www.qulacs.org',
